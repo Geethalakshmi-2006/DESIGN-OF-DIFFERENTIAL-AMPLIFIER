@@ -45,6 +45,7 @@ Differential amplifier
 <img width="1152" height="864" alt="image" src="https://github.com/user-attachments/assets/5b592e4b-3589-47e6-a871-e97677342b0e" />
 
 ##CALCULATION:
+
 <img width="1152" height="864" alt="image" src="https://github.com/user-attachments/assets/125e4c50-570c-4b97-8ad1-2cb703518288" />
 
 
