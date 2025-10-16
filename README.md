@@ -50,7 +50,8 @@ Differential amplifier
 
 
 ## GRAPH:
-![Uploading image.png…]()
+<img width="864" height="1152" alt="image" src="https://github.com/user-attachments/assets/a0f2194b-b3b1-4886-89ca-c38cf66107fd" />
+
 
 
 
